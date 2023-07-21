@@ -1,0 +1,139 @@
+    *{
+        padding: 0;
+        margin: 0;
+     }
+/*Burası il bölüm*/
+    #baskısım{
+        height: 90px;
+        border-style: solid;
+        border-width: 1px;
+        background-color: mediumaquamarine;
+        margin: auto;
+    }
+
+    #baskısım h1{
+        border-width: 3px;
+        border-radius: 8px;
+        border-color: rebeccapurple;
+        float: left;
+        padding: 5px;
+        margin-left: 15px;
+        position: relative;
+        top: 15px;
+        text-align: center;
+        left: 95px;
+    }
+
+    #baskısım ul{
+        list-style-type: none;
+    }
+
+    #baskısım ul li{
+        border-style: solid;
+        border-width: 3px;
+        border-radius: 8px;
+        border-color: rebeccapurple;
+        background-color: yellowgreen;
+        float: right;
+        padding: 5px;
+        margin-left: 15px;
+        position: relative;
+        top: 25px;
+        text-align: center;
+        right: 25px;
+    }
+
+    #baskısım ul a:link{
+        color: blue;
+    }
+
+    #baskısım ul a:visited{
+        color: brown;
+    }
+
+    #baskısım ul a:hover{
+        color: grey;
+        text-decoration: underline;
+    }
+
+    #baskısım ul a:active{
+        color: red;
+        text-decoration: underline;
+    }
+
+    #anamenu{
+        height: 325px;
+        border-style: solid;
+        border-width: 1px;
+        background-color: darkturquoise;
+        margin: auto;
+    }
+
+    #resim1{
+
+        width: 300px;
+        height: 280px;
+        border-style: dotted;
+        border-width: 1px;
+        background-color: chartreuse;
+        position: relative;
+        top: 20px;
+    }
+
+    #yanmenu{
+        width: 900px;
+        min-height: 15px;
+        border-style: dotted;
+        border-width: 1px;
+        background-color: white;
+        margin: auto;
+        position: relative;
+        border-radius: 8px;
+        border-color: rebeccapurple;
+        float: right;
+        padding: 5px;
+        margin-left: 15px;
+        top: 25px;
+        text-align: center;
+        right: 25px;
+    }
+
+    #yanmenu
+
+    #ikon{
+        width: 100px;
+        height: 80px;
+        margin: auto;
+    }
+
+    #yanmenu h1{
+        border-width: 3px;
+        border-radius: 8px;
+        border-color: rebeccapurple;
+        float: left;
+        padding: 5px;
+        margin-left: 15px;
+        position: relative;
+        top: 15px;
+        text-align: center;
+        left: 95px;
+    }
+
+    #yanmenu ul{
+        list-style-type: none;
+    }
+
+    #yanmenu ul li{
+        border-style: solid;
+        border-width: 3px;
+        border-radius: 8px;
+        border-color: rebeccapurple;
+        background-color: yellowgreen;
+        float: right;
+        padding: 5px;
+        margin-left: 15px;
+        position: relative;
+        top: 25px;
+        text-align: center;
+        right: 25px;
+    }
